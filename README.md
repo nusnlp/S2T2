@@ -33,4 +33,4 @@ If you use the source code or models from this work, please cite our paper:
 ```
 ### License ###
 
-The source code is licensed under GNU GPL 3.0 (see LICENSE) for non-commercial use. For commercial use of this code, separate commercial licensing is also available. Please contact Prof. Hwee Tou Ng ([nght@comp.nus.edu.sg](mailto:nght@comp.nus.edu.sg)).
+The source code is licensed under GNU GPL 3.0 (see [LICENSE](LICENSE)) for non-commercial use. For commercial use of this code, separate commercial licensing is also available. Please contact Prof. Hwee Tou Ng ([nght@comp.nus.edu.sg](mailto:nght@comp.nus.edu.sg)).
