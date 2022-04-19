@@ -18,7 +18,7 @@ Convert prediction file to separate json files:
 
 ```bash
 cd evaluation
-python convert_predictions_to_files.py --eval_file ../saved/btrain/eval_pred.jsonl
+python convert_predictions_to_files.py --eval_file ../saved/btrain/eval_pred.jsonl --lang en
 ```
 Then run the evaluation script:
 ```bash

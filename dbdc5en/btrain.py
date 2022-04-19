@@ -309,7 +309,7 @@ class Trainer():
 
         lr = 2e-6
 
-        ITERATIONS = 3
+        ITERATIONS = 5
 
         epochs = 5
         patience_max = 5

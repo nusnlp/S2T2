@@ -18,7 +18,7 @@ from model import PretrainedEmbedder, SMLP
 
 from transformers import AutoTokenizer, AutoModel, AdamW
 
-SEED = 62
+SEED = 224
 random.seed(SEED)
 torch.manual_seed(SEED)
 

@@ -32,7 +32,7 @@ python inference_t.py --config config.json --model [path_to_trained_model]
 First, convert prediction file to separate json files:
 ```bash
 cd evaluation
-python convert_predictions_to_files.py --eval_file ../saved/btrain/eval_pred.jsonl
+python convert_predictions_to_files.py --eval_file ../saved/btrain/eval_pred.jsonl --lang jp
 ```
 Then run the evaluation script:
 ```bash
