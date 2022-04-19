@@ -1,5 +1,5 @@
 ## A Semi-supervised Learning Approach with Two Teachers to Improve Breakdown Identification in Dialogues
-This repository contains codes of the paper A semi-Supervised Learning Approach with Two Teachers to Improve Breakdown Identification in Dialogues. [[arXiv](https://arxiv.org/abs/2202.10948)]
+This repository contains codes of the paper A Semi-supervised Learning Approach with Two Teachers to Improve Breakdown Identification in Dialogues. [[arXiv](https://arxiv.org/abs/2202.10948)]
 
 ### Requirements ###
 Check dependencies in `requirements.txt`, install required packages (with python 3.6.8):
