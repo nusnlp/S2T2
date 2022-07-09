@@ -1,5 +1,5 @@
 ## A Semi-supervised Learning Approach with Two Teachers to Improve Breakdown Identification in Dialogues
-This repository contains codes of the paper A Semi-supervised Learning Approach with Two Teachers to Improve Breakdown Identification in Dialogues. [[arXiv](https://arxiv.org/abs/2202.10948)]
+This repository contains codes of the paper "A Semi-supervised Learning Approach with Two Teachers to Improve Breakdown Identification in Dialogues" published in AAAI 2022. [[arXiv](https://arxiv.org/abs/2202.10948)]
 
 ### Requirements ###
 Check dependencies in `requirements.txt`, install required packages (with python 3.6.8):
@@ -27,8 +27,9 @@ If you use the source code or models from this work, please cite our paper:
 @inproceedings{lin2022semi,
   author    = "Lin, Qian and Ng, Hwee Tou",
   title     = "A Semi-supervised Learning Approach with Two Teachers to Improve Breakdown Identification in Dialogues",
-  booktitle = "Proceedings of the Thirty-Sixth AAAI Conference on Artificial Intelligence",
+  booktitle = "Proceedings of the AAAI Conference on Artificial Intelligence",
   year      = "2022",
+  pages     = "11011--11019",
 }
 ```
 ### License ###
